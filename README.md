@@ -7,7 +7,7 @@ What I'm working on.
 
 A few things I've built.
 
-- [economy-lab](https://github.com/pwngh/economy-lab): a double-entry credits ledger in TypeScript.
 - [unas](https://github.com/pwngh/unas): a C file server for mounted NAS shares over HTTP.
 - [flow](https://github.com/pwngh/flow): a typed workflow language with a C compiler and runtime.
-- [unas](https://github.com/pwngh/unas): a C file server for mounted NAS shares over HTTP.
+- [economy-lab](https://github.com/pwngh/economy-lab): a double-entry credits ledger in TypeScript.
+- [economy-edge](https://github.com/pwngh/economy-edge): a zero-dependency payment and payout adapter in TypeScript.
